@@ -1,1 +1,2 @@
 # Software_requirement
+记录个人的软件需求学习的知识和资料
